@@ -1,0 +1,3 @@
+dbname,host,port,user,password
+ecomanager_db,ecomanagerdb.arpat.toscana.it,5432,ecomanager,ecomanager
+
